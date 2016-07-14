@@ -1,0 +1,3 @@
+[submodule "all-about-fabricjs"]
+	path = all-about-fabricjs
+	url = https://github.com/gedelumbung/all-about-fabricjs.git
